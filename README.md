@@ -6,8 +6,10 @@ For the second deliverable, we again extracted video game Amazon review datasets
 
 ## Results
 When comparing 5-star ratings between the two datasets, we noted that the proportion of 5-star ratings in the Vine program is around 51% while the proportion of 5-star ratings in reviews outside the vine program drops to 38.7%. 
+
 Screen Shot 2021-06-21 at 3.35.49 PM<img width="614" alt="Screen Shot 2021-06-21 at 3 35 49 PM" src="https://user-images.githubusercontent.com/79813670/122817942-9029e180-d2a6-11eb-9029-8bef6d7d6c43.png">
 Screen Shot 2021-06-21 at 3.36.05 PM<img width="764" alt="Screen Shot 2021-06-21 at 3 36 05 PM" src="https://user-images.githubusercontent.com/79813670/122817982-9ddf6700-d2a6-11eb-8dd8-3d9212bee75f.png">
+
 # Summary
 As we can see, there is a significant increase in 5-star reviews (almost 12%) when reivews are obtained from the Vine Program. This suggests a positive bias for reviews within the vine program.
 
